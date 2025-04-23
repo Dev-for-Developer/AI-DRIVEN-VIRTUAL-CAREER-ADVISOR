@@ -35,7 +35,7 @@ To build a scalable and intelligent virtual career advisor that:
 
 ## 🧪 How It Works
 
-1. **User Input:** Collects user details (education, skills, interests, preferences)
+1. **User Input:** Collects user details (education, skills, passion, interests, preferences)
 2. **NLP Processing:** Extracts intent and context from free text
 3. **ML Engine:** Recommends best-fit career paths using trained models
 4. **Output:** Personalized advice + learning suggestions
